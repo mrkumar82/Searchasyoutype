@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.listItem {
+  padding: 5px;
+  cursor: pointer;
+}
+.listItem:hover {
+  background: #efefef;
+}
